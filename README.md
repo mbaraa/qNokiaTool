@@ -2,7 +2,7 @@
 
 - A Qt port of [NokiaTool](https://github.com/RaghuVarma331/Nokia-Tool) for linux
 
-## Supported devices
+## Supported devices:
     Nokia 7.2 (DDV)
     Nokia 6.2 (SLD)
     soon....
@@ -11,9 +11,15 @@
     Nokia 7.1 (CTL)
     Nokia 6.1 (PL2)
     
-## Requirements
+## Requirements:
 - Any linux distro 
 - ADB & Fastboot installed [platform-tools](https://dl.google.com/android/repository/platform-tools_r29.0.6-linux.zip)
+
+## How to commpile:
+- in the program directory run the following:
+- `qmake && make`
+- `chmod +x ./qNokiaTool`
+- `./qNokiaTool`
 
 ## Usage:
      1. Clone the repo
