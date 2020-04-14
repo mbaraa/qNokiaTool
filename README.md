@@ -20,3 +20,4 @@
      2. Copy the executable file into the rom directory
      3. Set execute permission to the file `chmod +x ./qNokiaTool.bin`
      4. Execute the program as root `sudo ./qNokiaTool`
+     5. Press ok on each partition flash process
