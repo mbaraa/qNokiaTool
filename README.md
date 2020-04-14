@@ -21,3 +21,16 @@
      3. Set execute permission to the file `chmod +x ./qNokiaTool.bin`
      4. Execute the program as root `sudo ./qNokiaTool`
      5. Press ok on each partition flash process
+
+## Credits:
+- Raghu varma for allowing my to port his tool 
+
+## Contact me :)
+- If you liked the program 😇 grab me a cup of coffee @ [PayPal](https://www.paypal.me/baraamasri) if you didn't like it
+- Contact me at the following for bug report:
+
+E-Mail : baraa.masri@asu.edu.jo ,
+Telegram : @bebo_c137 ,
+Twitter : [@baraa_c137](https://twitter.com/baraa_c137)
+
+ So I can try to make it better 😇.
