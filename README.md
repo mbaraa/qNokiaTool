@@ -5,7 +5,6 @@
 ## Supported devices:
     Nokia 7.2 (DDV)
     Nokia 6.2 (SLD)
-    soon....
     Nokia 6.1 Plus (DRG)
     Nokia 7 plus (B2N)
     Nokia 7.1 (CTL)

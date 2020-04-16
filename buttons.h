@@ -7,8 +7,8 @@
 class buttons: public QWidget{
     Q_OBJECT
 public slots:
-    void ddv();
-    void drg();
+    void flash1();
+    void flash2();
 
 public:
     buttons(QWidget *parent);
