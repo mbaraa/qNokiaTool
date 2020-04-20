@@ -2,7 +2,7 @@
 
 - A Qt port of [NokiaTool](https://github.com/RaghuVarma331/Nokia-Tool) for linux
 <p align="center">
-<img src="https://forum.xda-developers.com/picture.php?albumid=16181&pictureid=60403" > 
+<img src="https://i.imgur.com/MAuuXEQ.png" > 
 </p>
 
 ## Supported devices:
