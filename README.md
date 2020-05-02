@@ -16,7 +16,7 @@
 ## Requirements:
 - Any linux distro 
 - ADB & Fastboot installed [platform-tools](https://dl.google.com/android/repository/platform-tools_r29.0.6-linux.zip)
-- Qt Framwork installed, if you don't have it use this program for Nokia 6.2 7.2 ONLY [cliNokiaTool](https://github.com/baraa-almasri/qNokiaTool/releases/download/v0.2/CLInokiaTool6272only)
+- Qt Framwork installed, if you don't have it use this program for Nokia 6.2 & 7.2 ONLY [cliNokiaTool](https://github.com/baraa-almasri/qNokiaTool/releases/download/v0.2/CLInokiaTool6272only)
 ## How to commpile:
 - in the program directory run the following:
 - `qmake && make`
